@@ -1,0 +1,9 @@
+torch
+diffusers
+ffmpeg-python
+openai
+pyyaml
+librosa
+numpy
+Pillow
+tqdm
