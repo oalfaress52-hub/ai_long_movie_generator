@@ -1,0 +1,9 @@
+{
+  "scene_1": {"description": "Scene 1 description here", "duration": 10},
+  "scene_2": {"description": "Scene 2 description here", "duration": 10},
+  "scene_3": {"description": "Scene 3 description here", "duration": 10},
+  "scene_4": {"description": "Scene 4 description here", "duration": 10},
+  "scene_5": {"description": "Scene 5 description here", "duration": 10},
+  "scene_6": {"description": "Scene 6 description here", "duration": 10},
+  "scene_7": {"description": "Scene 7 description here", "duration": 10}
+}
