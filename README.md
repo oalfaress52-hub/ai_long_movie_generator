@@ -18,3 +18,5 @@ See `file_tree.txt` for organized folders.
 3. Add your movie script in `assets/scripts/`
 4. Run `scene_breaker.py` → `video_generator.py` → `audio_generatorn.py` → `video_stitcher.py`
 5. Export final movie in `outputs/final/`
+
+See `GUIDELINES.md` for detailed instructions for directors.
