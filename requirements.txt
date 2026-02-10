@@ -1,9 +1,4 @@
-torch
-diffusers
-ffmpeg-python
-openai
-pyyaml
-librosa
+ffpmeg-python
 numpy
 Pillow
 tqdm
