@@ -1,0 +1,18 @@
+# Placeholder mode - no API needed
+provider: "mock"
+api_key: "NONE"
+
+# Output paths
+clips_dir: "../outputs/clips"
+stitched_dir: "../outputs/stitched"
+final_dir: "../outputs/final"
+
+# Video settings
+resolution: "720p"
+fps: 24
+duration_per_scene: 10
+style: "cinematic, epic, placeholder"
+
+# Audio settings
+tts_voice: "neutral_male"
+background: "assets/audio/epic_score.mp3"
