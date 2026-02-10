@@ -1,0 +1,6 @@
+{
+  "tts_enabled": true,
+  "tts_voice": "neutral_male",
+  "background_music": "assets/audio/epic_score.mp3",
+  "music_volume": 0.5
+}
